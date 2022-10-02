@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-02T17:27:14.59495197+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 3462110a52ca461e94ea57d5f555c386c745f4c12f375a12a075a5fd129d25d7
+    name: test
+    type: application
+    urls:
+    - https://192.168.181.106:8444/laixin/charts/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-02T17:27:14.594303568+08:00"
